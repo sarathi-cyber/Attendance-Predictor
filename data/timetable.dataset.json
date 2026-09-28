@@ -1,0 +1,122 @@
+{
+  "academicCalendar": {
+    "semesterStart": "2026-08-29",
+    "semesterEnd": "2026-11-29",
+    "holidays": [
+      "2026-09-05",
+      "2026-10-02",
+      "2026-10-20",
+      "2026-10-21",
+      "2026-11-01"
+    ],
+    "workingSaturdays": [
+      {
+        "date": "2026-09-12",
+        "substituteWeekday": 1
+      }
+    ]
+  },
+  "subjects": {},
+  "sections": {
+    "I_ECE_A": {
+      "id": "I_ECE_A",
+      "name": "I ECE-A",
+      "subjectIds": [],
+      "timetable": [],
+      "sourcePdf": "/timetables/I_ECE_A.pdf",
+      "sourceAcademicYear": "2024–25",
+      "timetableStatus": "historical-reference",
+      "predictionEnabled": false
+    },
+    "II_BME": {
+      "id": "II_BME",
+      "name": "II BME",
+      "subjectIds": [],
+      "timetable": [],
+      "sourcePdf": "/timetables/II_BME.pdf",
+      "sourceAcademicYear": "2026–27",
+      "timetableStatus": "source-pdf-not-yet-transcribed",
+      "predictionEnabled": false
+    },
+    "II_ECE_DS_A": {
+      "id": "II_ECE_DS_A",
+      "name": "II ECE-DS A",
+      "subjectIds": [],
+      "timetable": [],
+      "sourcePdf": "/timetables/II_ECE_DS_A.pdf",
+      "sourceAcademicYear": "2026–27",
+      "timetableStatus": "source-pdf-not-yet-transcribed",
+      "predictionEnabled": false
+    },
+    "II_ECE_DS_B": {
+      "id": "II_ECE_DS_B",
+      "name": "II ECE-DS B",
+      "subjectIds": [],
+      "timetable": [],
+      "sourcePdf": "/timetables/II_ECE_DS_B.pdf",
+      "sourceAcademicYear": "2026–27",
+      "timetableStatus": "source-pdf-not-yet-transcribed",
+      "predictionEnabled": false
+    },
+    "III_BME": {
+      "id": "III_BME",
+      "name": "III BME",
+      "subjectIds": [],
+      "timetable": [],
+      "sourcePdf": "/timetables/III_BME.pdf",
+      "sourceAcademicYear": "2026–27",
+      "timetableStatus": "source-pdf-not-yet-transcribed",
+      "predictionEnabled": false
+    },
+    "III_ECE_A": {
+      "id": "III_ECE_A",
+      "name": "III ECE-A",
+      "subjectIds": [],
+      "timetable": [],
+      "sourcePdf": "/timetables/III_ECE_A.pdf",
+      "sourceAcademicYear": "2026–27",
+      "timetableStatus": "source-pdf-not-yet-transcribed",
+      "predictionEnabled": false
+    },
+    "III_ECE_B": {
+      "id": "III_ECE_B",
+      "name": "III ECE-B",
+      "subjectIds": [],
+      "timetable": [],
+      "sourcePdf": "/timetables/III_ECE_B.pdf",
+      "sourceAcademicYear": "2026–27",
+      "timetableStatus": "source-pdf-not-yet-transcribed",
+      "predictionEnabled": false
+    },
+    "III_ECE_DS": {
+      "id": "III_ECE_DS",
+      "name": "III ECE-DS",
+      "subjectIds": [],
+      "timetable": [],
+      "sourcePdf": "/timetables/III_ECE_DS.pdf",
+      "sourceAcademicYear": "2026–27",
+      "timetableStatus": "source-pdf-not-yet-transcribed",
+      "predictionEnabled": false
+    },
+    "IV_ECE_A": {
+      "id": "IV_ECE_A",
+      "name": "IV ECE-A",
+      "subjectIds": [],
+      "timetable": [],
+      "sourcePdf": "/timetables/IV_ECE_A.pdf",
+      "sourceAcademicYear": "2026–27",
+      "timetableStatus": "source-pdf-not-yet-transcribed",
+      "predictionEnabled": false
+    },
+    "IV_ECE_B": {
+      "id": "IV_ECE_B",
+      "name": "IV ECE-B",
+      "subjectIds": [],
+      "timetable": [],
+      "sourcePdf": "/timetables/IV_ECE_B.pdf",
+      "sourceAcademicYear": "2026–27",
+      "timetableStatus": "source-pdf-not-yet-transcribed",
+      "predictionEnabled": false
+    }
+  }
+}
